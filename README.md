@@ -1,5 +1,6 @@
 # Time Dilation
 ⏳ Time Dilation: The Bizarre Reality of Einstein’s Relativity
+
 Imagine you're an astronaut aboard a spaceship travelling at 99% the speed of light 🚀. You glance at your onboard clock, and it ticks normally. But when you look outside, something eerie happens—on Earth, time is moving much faster. When you return home after what felt like a few months to you, decades have passed for everyone else on Earth.
 
 The Einsteinian Revolution: When Time Stopped Being Absolute
